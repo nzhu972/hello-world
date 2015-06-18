@@ -11,7 +11,7 @@ public class App
 	}
 	
 	public String transformRes (String in) {
-        <!-- responding ok -->
+        // Add OK
 		return ("OK!");
 	}
 	
