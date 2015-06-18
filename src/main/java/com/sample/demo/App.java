@@ -17,6 +17,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "TEST TEST ! ");
+        System.out.println( "TEST2 TEST2 ! ");
         System.out.println( "Hello World!" );
     }
 }
